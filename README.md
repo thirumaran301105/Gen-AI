@@ -404,8 +404,7 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed guides.
 
 - **[API Documentation](API_DOCUMENTATION.md)** - Complete REST API reference
 - **[Deployment Guide](DEPLOYMENT.md)** - Production deployment
-- **[Quick Start](QUICKSTART.md)** - 5-minute setup
-- **[Hackathon Guide](HACKATHON_GUIDE.md)** - Demo presentation
+- **[Quick Start](QUICKSTART.md)** - 5-minute setup3
 
 ---
 
@@ -481,17 +480,6 @@ git commit -m "Add amazing feature"
 # Push & create PR
 git push origin feature/amazing-feature
 ```
-
----
-
-## 📞 Support & Contact
-
-- **Documentation**: https://docs.ruralavisory.com
-- **Issues**: https://github.com/yourorg/rural_advisory/issues
-- **Discussions**: https://github.com/yourorg/rural_advisory/discussions
-- **Email**: support@ruralavisory.com
-- **Slack**: https://ruralavisory.slack.com
-
 ---
 
 ## 📜 License
@@ -540,5 +528,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Built with ❤️ for Farmers | Powered by AI | Made in India 🇮🇳**
 
 *Version 2.0.0 | Last Updated: 2024-01-15*
-#   G e n - A I  
+#   G e n - A I 
+ 
  

@@ -623,15 +623,4 @@ curl -X POST https://yourdomain.com/api/analytics \
 - Basic weather integration
 - Simple database
 
----
-
-## Support & Contact
-
-- **Documentation:** https://docs.ruralavisory.com
-- **Issues:** https://github.com/yourorg/rural_advisory/issues
-- **Email:** api-support@ruralavisory.com
-- **Slack:** https://ruralavisory.slack.com
-
----
-
 **API Version 2.0.0 | Last Updated: 2024-01-15**

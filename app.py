@@ -788,6 +788,6 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align:center;color:#888;font-size:12px;'>
 🌾 Rural Agricultural Advisory System v2.0 | Built for Indian Farmers<br>
-© 2024 All Rights Reserved
+© 2026 All Rights Reserved
 </div>
 """, unsafe_allow_html=True)

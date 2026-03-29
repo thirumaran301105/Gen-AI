@@ -305,7 +305,6 @@ def autoplay_audio(audio_bytes: bytes) -> None:
         unsafe_allow_html=True,
     )
 
-
 def spraying_advice(location: str) -> dict:
     w = MOCK_WEATHER.get(location, MOCK_WEATHER["Other"])
     score, msgs = 1.0, []
